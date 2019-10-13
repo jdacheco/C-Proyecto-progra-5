@@ -1,0 +1,6 @@
+D:\Juan Diego\2019 - 3er cuatrimestre\Programacion V\Proyecto Final Progra 5\C#\SistemaPreventa\Logica\bin\Debug\Logica.dll
+D:\Juan Diego\2019 - 3er cuatrimestre\Programacion V\Proyecto Final Progra 5\C#\SistemaPreventa\Logica\bin\Debug\Logica.pdb
+D:\Juan Diego\2019 - 3er cuatrimestre\Programacion V\Proyecto Final Progra 5\C#\SistemaPreventa\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+D:\Juan Diego\2019 - 3er cuatrimestre\Programacion V\Proyecto Final Progra 5\C#\SistemaPreventa\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Juan Diego\2019 - 3er cuatrimestre\Programacion V\Proyecto Final Progra 5\C#\SistemaPreventa\Logica\obj\Debug\Logica.dll
+D:\Juan Diego\2019 - 3er cuatrimestre\Programacion V\Proyecto Final Progra 5\C#\SistemaPreventa\Logica\obj\Debug\Logica.pdb
